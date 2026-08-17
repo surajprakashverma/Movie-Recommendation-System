@@ -17,7 +17,7 @@ Users search for a movie they like, and the app instantly returns the top 6 most
 
 **🚀 Try it live:**
 
-https://your-render-app.onrender.com
+https://movie-recommendation-system-8to3.onrender.com
 
 > _Note: Render free-tier services may take a few seconds to wake up after inactivity._
 
